@@ -16,6 +16,9 @@
 * Larger, bolder headline immediately communicates the **main value proposition**.
 * Green CTA stands out against the background and is associated with **success & positivity**, encouraging clicks.
 
+ <img width="2560" height="1380" alt="image" src="https://github.com/user-attachments/assets/7fc4b88c-a574-40ad-bbb0-23932e02b9db" />
+  
+
 
 
 ## 2. Autofill & Features Explanation
@@ -29,6 +32,8 @@
 
 * Original version lacked detail → users didn’t know **exactly how autofill works**.
 * Explaining features reduces **user skepticism** and builds trust.
+
+<img width="2560" height="616" alt="image" src="https://github.com/user-attachments/assets/b3f903d5-a981-448c-9ae0-872917518cbd" />
 
 
 
@@ -44,6 +49,8 @@
 * Helps users understand **why scanning is beneficial** (more interviews, feedback).
 * Visuals + details improve **engagement** and **perceived value** of feature.
 
+<img width="2560" height="746" alt="image" src="https://github.com/user-attachments/assets/c2fba331-97e8-4b9c-b13a-1791842e6e66" />
+
 
 
 ## 4. "See the Magic in Action" Section
@@ -58,6 +65,8 @@
 
 * Demonstrates **real value with numbers** → reduces cognitive load in imagining results.
 * Multiple CTAs at scroll depth prevent **drop-off conversion loss**.
+
+<img width="2560" height="1804" alt="image" src="https://github.com/user-attachments/assets/415bb53c-32fc-472f-bf68-4ab9898ce017" />
 
 
 
@@ -76,6 +85,8 @@
 * Card design allows **quick scanning** and **emotional connection**.
 * Call-to-action after testimonials uses **social proof to convert**.
 
+<img width="2360" height="526" alt="image" src="https://github.com/user-attachments/assets/2c7f39ac-b29e-4bf2-9080-4b9369174e99" />
+
 
 
 ## 6. Newsletter Section
@@ -90,6 +101,8 @@
 * More **benefit-driven copy** attracts higher engagement.
 * Clear **value exchange** ("tips & insights" vs vague "newsletter").
 * Improves **email signup conversion rates**.
+
+<img width="2560" height="740" alt="image" src="https://github.com/user-attachments/assets/64769ef2-3ac2-4914-8469-8b568b21564b" />
 
 
 
