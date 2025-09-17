@@ -1,5 +1,5 @@
-
 # User Research Report – Website Redesign (applyGOAT)
+Available here : [Project](https://ankita-yadv.github.io/UI-UX-Projects/applyGoat/landing%20page_applyGoat.pdf)
 
 ## 1. Hero Section Improvements
 
